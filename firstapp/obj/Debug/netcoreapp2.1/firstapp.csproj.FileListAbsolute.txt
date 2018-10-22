@@ -1,0 +1,11 @@
+C:\Users\BSA62\LambdaSchool\Learning-C-Sharp\firstapp\bin\Debug\netcoreapp2.1\firstapp.deps.json
+C:\Users\BSA62\LambdaSchool\Learning-C-Sharp\firstapp\bin\Debug\netcoreapp2.1\firstapp.runtimeconfig.json
+C:\Users\BSA62\LambdaSchool\Learning-C-Sharp\firstapp\bin\Debug\netcoreapp2.1\firstapp.runtimeconfig.dev.json
+C:\Users\BSA62\LambdaSchool\Learning-C-Sharp\firstapp\bin\Debug\netcoreapp2.1\firstapp.dll
+C:\Users\BSA62\LambdaSchool\Learning-C-Sharp\firstapp\bin\Debug\netcoreapp2.1\firstapp.pdb
+C:\Users\BSA62\LambdaSchool\Learning-C-Sharp\firstapp\obj\Debug\netcoreapp2.1\firstapp.csprojAssemblyReference.cache
+C:\Users\BSA62\LambdaSchool\Learning-C-Sharp\firstapp\obj\Debug\netcoreapp2.1\firstapp.csproj.CoreCompileInputs.cache
+C:\Users\BSA62\LambdaSchool\Learning-C-Sharp\firstapp\obj\Debug\netcoreapp2.1\firstapp.AssemblyInfoInputs.cache
+C:\Users\BSA62\LambdaSchool\Learning-C-Sharp\firstapp\obj\Debug\netcoreapp2.1\firstapp.AssemblyInfo.cs
+C:\Users\BSA62\LambdaSchool\Learning-C-Sharp\firstapp\obj\Debug\netcoreapp2.1\firstapp.dll
+C:\Users\BSA62\LambdaSchool\Learning-C-Sharp\firstapp\obj\Debug\netcoreapp2.1\firstapp.pdb
